@@ -1,0 +1,5 @@
+/home/emiloff/Documents/EchoNetQt/vcpkg/CMakeFiles/EchoNet.dir
+/home/emiloff/Documents/EchoNetQt/vcpkg/CMakeFiles/edit_cache.dir
+/home/emiloff/Documents/EchoNetQt/vcpkg/CMakeFiles/rebuild_cache.dir
+/home/emiloff/Documents/EchoNetQt/vcpkg/CMakeFiles/EchoNet_autogen_timestamp_deps.dir
+/home/emiloff/Documents/EchoNetQt/vcpkg/CMakeFiles/EchoNet_autogen.dir
